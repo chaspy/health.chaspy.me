@@ -42,7 +42,7 @@ widget:
 
 # About
 
-Visualize @chaspy's health
+Site to visualize @chaspy's health
 
 ## Cleanliness
 
