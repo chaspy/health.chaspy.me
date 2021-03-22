@@ -48,4 +48,6 @@ Site to visualize @chaspy's health
 
 The number of times roomba has completed cleaning.
 
-<iframe src="https://pixe.la/v1/users/chaspy/graphs/roomba.html?mode=simple" height="155" width="720" frameborder="0"></iframe>
+<div class="pixela">
+  <iframe src="https://pixe.la/v1/users/chaspy/graphs/roomba.html?mode=simple" height="155" width="720" frameborder="0"></iframe>
+</div>

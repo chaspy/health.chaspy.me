@@ -41,3 +41,6 @@ taxonomies:
 
 build:
   useResourceCacheWhen: always
+
+params:
+  customCSS: ["/css/custom.css"]
