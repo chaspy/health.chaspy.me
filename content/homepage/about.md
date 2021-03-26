@@ -51,3 +51,11 @@ The number of times roomba has completed cleaning.
 <div class="pixela">
   <iframe src="https://pixe.la/v1/users/chaspy/graphs/roomba.html?mode=simple" height="155" width="720" frameborder="0"></iframe>
 </div>
+
+## TODO
+
+The number of times I have completed a task in [Todoist](https://todoist.com).
+
+<div class="pixela">
+  <iframe src="https://pixe.la/v1/users/chaspy/graphs/todoist.html?mode=simple" height="155" width="720" frameborder="0"></iframe>
+</div>
